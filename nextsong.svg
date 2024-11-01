@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="rgb(179,179,179)" fill="none">
+  <!-- Larger sharp-edged triangle -->
+  <path d="M6 4L18 12L6 20L6 4Z" fill="rgb(179,179,179)" />
+  <!-- Optional: The vertical line -->
+  <path d="M20 5V19" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+</svg>
